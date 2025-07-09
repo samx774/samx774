@@ -54,11 +54,11 @@ and maintainable code that enhances scalability and long-term project success.</
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samx774/samx774/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samx774/samx774/output/github-snake.svg" />
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idknevo/idknevo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idknevo/idknevo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 <br>
 <br>
 <img src="https://i.pinimg.com/736x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg" width="100%"/>
