@@ -61,4 +61,4 @@ and maintainable code that enhances scalability and long-term project success.</
 </picture>
 <br>
 <br>
-<img src="./assets/download.jpg" width="100%"/>
+<img src="https://i.pinimg.com/736x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg" width="100%"/>
