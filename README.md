@@ -2,7 +2,7 @@
 <!-- banner -->
 <img src="./download.gif" width="100%"/>
 
-<p align="left"> A highly skilled Front-End Developer with 2 years of experience specializing in React.js and Next.js. Proficient
+<p align="left"> A highly skilled Front-End Developer with 3 years of experience specializing in React.js and Next.js. Proficient
 in building dynamic, high-performance, and user-friendly web applications with a focus on clean, efficient, and
 scalable code. Experienced in modern front-end technologies including JavaScript (ES6+), TypeScript, Redux,
 Next.js, Tailwind CSS, and Bootstrap. Strong problem-solver who prioritizes crafting highly efficient, reusable,
