@@ -2,11 +2,12 @@
 <!-- banner -->
 <img src="./download.gif" width="100%"/>
 
-<p align="left"> A highly skilled Front-End Developer with 3 years of experience specializing in React.js and Next.js. Proficient
-in building dynamic, high-performance, and user-friendly web applications with a focus on clean, efficient, and
-scalable code. Experienced in modern front-end technologies including JavaScript (ES6+), TypeScript, Redux,
-Next.js, Tailwind CSS, and Bootstrap. Strong problem-solver who prioritizes crafting highly efficient, reusable,
-and maintainable code that enhances scalability and long-term project success.</p>
+<p align="left"> Front-End Developer with 3+ years of experience building responsive, performant web applications using
+React.js and Next.js. Skilled in TypeScript, Zustand, and modern CSS frameworks (Tailwind, Bootstrap).
+Comfortable working across the full stack when needed — including RESTful APIs and database integration —
+enabling seamless collaboration with back-end teams and end-to-end feature delivery. Focused on writing clean,
+scalable code and improving user experience, whether that means optimizing Core Web Vitals, architecting
+reusable component libraries, or streamlining complex state management.</p>
 
 ### Your can reach me at: **<samx4060@gmail.com>**
 
